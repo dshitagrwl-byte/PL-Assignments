@@ -14,6 +14,7 @@ int main()
 
     return 0;
 }
+
 //output: Enter three numbers: 10 20 30
 //Average = 20.00
 //average = (a+b+c)/3
