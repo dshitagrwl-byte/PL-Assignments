@@ -16,5 +16,5 @@ int main()
 }
 
 //Output: Enter the radius of the circle: 5
-Area of the circle = 78.50
-Formula: π*r*r
+//Area of the circle = 78.50
+//Formula: π*r*r
